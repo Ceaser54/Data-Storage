@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Inventory Stage2</string>
+    <string name="telephone">The Phone Number</string>
+    <string name="save">Save The Data</string>
+    <string name="Dial">Call now!!</string>
+    <string name="message">Delete the item?</string>
+    <string name="del">Are you sure?!</string>
+    <string name="Cancel">canel</string>
+    <string name="input">Input Quantity!</string>
+    <string name="No">"No Negative Numbers or Zero Values!</string>
+    <string name="min">1</string>
+    <string name="inputall">all data needed!</string>
+    <string name="sale">click to sale!</string>
+    <string name="default_message">You can insert price,productname,suppliername,quantity of the product,phone number all required!!</string>
+    <string name="delete">delete!</string>
+    <string name="delete_all">delete all items</string>
+    <string name="oreder">order this item</string>
+    <string name="now">Enter Quantity now"</string>
+    <string name="feel">Please Feel All Data!</string>
+    <string name="Cant">"Can't Update Item for the first time added it!</string>
+    <string name="changeQ">missing quantity data!</string>
+    <string name="savee">can nott save empty data</string>
+    <string name="Callempty">Can not call empty number,go back to complete insert!</string>
+</resources>

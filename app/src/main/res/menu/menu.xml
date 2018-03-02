@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AddProduct">
+
+    <item
+        android:id="@+id/DeleteAll"
+        android:title="@string/delete_all"/>
+    <item
+        android:id="@+id/Deleteone"
+        android:title="@string/delete"/>
+    <item
+        android:id="@+id/Order"
+        android:title="@string/oreder"/>
+
+</menu>
